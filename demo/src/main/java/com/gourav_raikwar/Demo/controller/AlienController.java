@@ -1,7 +1,7 @@
-package com.anand.Demo.controller;
+package com.gourav_raikwar.Demo.controller;
 
-import com.anand.Demo.AlienRepo;
-import com.anand.Demo.model.Alien;
+import com.gourav_raikwar.Demo.AlienRepo;
+import com.gourav_raikwar.Demo.model.Alien;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

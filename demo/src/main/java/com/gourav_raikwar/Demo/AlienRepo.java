@@ -1,6 +1,6 @@
-package com.anand.Demo;
+package com.gourav_raikwar.Demo;
 import java.util.*;
-import com.anand.Demo.model.Alien;
+import com.gourav_raikwar.Demo.model.Alien;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
